@@ -1,0 +1,13 @@
+.App {
+  display: grid;
+  min-height: 100vh;
+  grid-template-rows: 140px auto 40px;
+}
+
+.header,
+.footer {
+  text-align: center;
+  background-color: brown;
+  overflow: auto;
+  color: #ffffff;
+}
